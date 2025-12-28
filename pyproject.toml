@@ -1,0 +1,12 @@
+[project]
+name = "my-ml-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13.5"
+dependencies = [
+    "dvc>=3.65.0",
+    "jupyterlab>=4.5.1",
+    "mlflow>=3.8.1",
+    "pandas>=2.3.3",
+]
